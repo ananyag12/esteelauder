@@ -26,7 +26,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         playVideo()
         
-        // Do any additional setup after loading the view.
         let gesture = UITapGestureRecognizer(target: self, action: #selector(onClickView))
                 self.view.addGestureRecognizer(gesture)
     }
