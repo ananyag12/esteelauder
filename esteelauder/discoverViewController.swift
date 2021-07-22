@@ -12,7 +12,6 @@ class discoverViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        //playVideo()
 
         // Do any additional setup after loading the view.
     }
@@ -30,31 +29,5 @@ class discoverViewController: UIViewController {
         }
     }
     
-    
-    /* video playing code
-    @IBOutlet weak var videoLayer: UIView!
-    
-    func playVideo(){
-        guard let path = Bundle.main.path(forResource: "Wear Confidence - Double Wear Stay-in-Place Makeup 1", ofType: "mp4") else {
-            return
-        }
-        let player = AVPlayer(url: URL(fileURLWithPath: path))
-        let playerLayer = AVPlayerLayer(player: player)
-        playerLayer.frame = self.view.bounds
-        playerLayer.videoGravity = .resizeAspectFill
-        self.videoLayer.layer.addSublayer(playerLayer)
-        player.play()
-    }
- */
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
 
 }

@@ -17,7 +17,6 @@
 		A843C3FB26A4B78800BF07FF /* black.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A843C3F826A4B73B00BF07FF /* black.mp4 */; };
 		A843C40126A4C2B200BF07FF /* applyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A843C40026A4C2B200BF07FF /* applyViewController.swift */; };
 		A87259A526A706CB0028F1B1 /* tutorialsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A87259A426A706CB0028F1B1 /* tutorialsViewController.swift */; };
-		A898F47B26A8D57900A99D5E /* userProductList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A898F47A26A8D57900A99D5E /* userProductList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +32,6 @@
 		A843C3F826A4B73B00BF07FF /* black.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = black.mp4; path = ../black.mp4; sourceTree = SOURCE_ROOT; };
 		A843C40026A4C2B200BF07FF /* applyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = applyViewController.swift; sourceTree = "<group>"; };
 		A87259A426A706CB0028F1B1 /* tutorialsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tutorialsViewController.swift; sourceTree = "<group>"; };
-		A898F47A26A8D57900A99D5E /* userProductList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = userProductList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,7 +67,6 @@
 				A843C3D426A3A9A200BF07FF /* AppDelegate.swift */,
 				A843C3D626A3A9A200BF07FF /* SceneDelegate.swift */,
 				A843C3D826A3A9A200BF07FF /* ViewController.swift */,
-				A898F47A26A8D57900A99D5E /* userProductList.swift */,
 				A843C3DA26A3A9A200BF07FF /* Main.storyboard */,
 				A87259A426A706CB0028F1B1 /* tutorialsViewController.swift */,
 				A843C40026A4C2B200BF07FF /* applyViewController.swift */,
@@ -158,7 +155,6 @@
 				A843C3F526A4949000BF07FF /* discoverViewController.swift in Sources */,
 				A843C3D526A3A9A200BF07FF /* AppDelegate.swift in Sources */,
 				A843C40126A4C2B200BF07FF /* applyViewController.swift in Sources */,
-				A898F47B26A8D57900A99D5E /* userProductList.swift in Sources */,
 				A843C3D726A3A9A200BF07FF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
